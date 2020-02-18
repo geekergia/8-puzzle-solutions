@@ -187,7 +187,7 @@ class Solution:
 							count +=1
 							break
 					
-					#if not visited, queue to OPEN list
+					#if not visited, queue to open list
 					if count==0:
 								self.open.append(i)	
 
